@@ -16,3 +16,5 @@ target_sources(QvPlugin-Command PRIVATE
     ui/CommandPluginSettings.ui
     resx.qrc
     )
+
+
